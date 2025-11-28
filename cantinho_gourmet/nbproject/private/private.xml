@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/m2%20adilson/cantinho_gourmet/web/pedidos/detalhesPedido.jsp</file>
+            <file>file:/D:/m2%20adilson/cantinho_gourmet/web/pedidos/formPedido.jsp</file>
+            <file>file:/D:/m2%20adilson/cantinho_gourmet/web/pedidos/listarPedidos.jsp</file>
+            <file>file:/D:/m2%20adilson/cantinho_gourmet/web/pedidos/processarPedido.jsp</file>
+            <file>file:/D:/m2%20adilson/cantinho_gourmet/web/produtos/formProduto.jsp</file>
+            <file>file:/D:/m2%20adilson/cantinho_gourmet/web/produtos/listarProdutos.jsp</file>
+            <file>file:/D:/m2%20adilson/cantinho_gourmet/web/produtos/processarProduto.jsp</file>
+            <file>file:/D:/m2%20adilson/cantinho_gourmet/web/index.jsp</file>
+            <file>file:/D:/m2%20adilson/cantinho_gourmet/src/java/confeitaria/dao/ClienteDAO.java</file>
+            <file>file:/D:/m2%20adilson/cantinho_gourmet/src/java/confeitaria/dao/FornecedorDAO.java</file>
+            <file>file:/D:/m2%20adilson/cantinho_gourmet/src/java/confeitaria/dao/FuncionarioDAO.java</file>
+            <file>file:/D:/m2%20adilson/cantinho_gourmet/src/java/confeitaria/dao/PedidoDAO.java</file>
+            <file>file:/D:/m2%20adilson/cantinho_gourmet/src/java/confeitaria/dao/ProdutoDAO.java</file>
+            <file>file:/D:/m2%20adilson/cantinho_gourmet/src/java/confeitaria/model/Cliente.java</file>
+            <file>file:/D:/m2%20adilson/cantinho_gourmet/src/java/confeitaria/model/Fornecedor.java</file>
+            <file>file:/D:/m2%20adilson/cantinho_gourmet/src/java/confeitaria/model/ItemPedido.java</file>
+            <file>file:/D:/m2%20adilson/cantinho_gourmet/src/java/confeitaria/utill/ConnectionFactory.java</file>
+            <file>file:/D:/m2%20adilson/cantinho_gourmet/src/java/confeitaria/model/Funcionario.java</file>
+            <file>file:/D:/m2%20adilson/cantinho_gourmet/src/java/confeitaria/model/Pedido.java</file>
+            <file>file:/D:/m2%20adilson/cantinho_gourmet/src/java/confeitaria/model/Produto.java</file>
+        </group>
+    </open-files>
+</project-private>
